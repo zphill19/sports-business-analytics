@@ -5,6 +5,7 @@ This repository contains a full-stack data engineering, predictive machine learn
 
 The entire system is architected around an explicit production **Time-Wall Semantic boundary at Game 243**. This splits the pipeline into a messy historical era (Games 1–243) and an unplayed production forecasting era (Games 244–324) where future variables are completely unknown.
 
+```text
 sports-business-analytics-lifecycle/
 ├── dashboards/
 │   └── Stadium_Revenue_Forecast_Optimizer.pbix   # Phase 3: Prescriptive Analytics Console
@@ -18,6 +19,7 @@ sports-business-analytics-lifecycle/
 │   └── data_clean_and_analytics.py                # Phase 2: Advanced ETL & Machine Learning Pipeline
 ├── executive_summary.md                           # Phase 4: Standing Business Memo
 └── README.md     
+```
 
 ---
 
