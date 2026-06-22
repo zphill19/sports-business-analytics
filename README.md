@@ -129,4 +129,4 @@ To replicate this entire pipeline locally from your terminal, execute the follow
 
 ***
 For a deep dive into the standalone business justifications, cost controls, and operational strategies of this model, please review the front-office report:
-**[View the 1-Page Summary Brief (Executive_Brief.md)](./Executive_Brief.md)**
+**[View the 1-Page Summary Brief (executive_summary.md)](./executive_summary.md)**
